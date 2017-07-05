@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
 	private LinearLayout ll_home;
 	TextView textView;
 	ValueAnimator anim_rv;
-
+//测试看看行不行
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
