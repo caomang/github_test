@@ -28,6 +28,8 @@ public class MainActivity extends Activity {
 	TextView textView;
 	ValueAnimator anim_rv;
 //测试看看行不行
+	
+	//这是sourceTree提交测试的代码
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
