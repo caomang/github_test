@@ -28,17 +28,7 @@ public class MainActivity extends Activity {
 	private LinearLayout ll_home;
 	TextView textView;
 	ValueAnimator anim_rv;
-//测试看看行不行
-	
-	//这是sourceTree提交测试的代码
-	
-//这个是eclipse提交的测试代码
-	
-	
-	//、、哈哈哈哈哈哈
-	//这个是测试的
-	
-	//2017年7月20日14:46:12
+
 
 	
 	@Override
