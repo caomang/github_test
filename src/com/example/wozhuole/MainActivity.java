@@ -39,17 +39,8 @@ public class MainActivity extends Activity {
 	//哈哈哈哈哈哈哈哈哈
 	//哈哈哈哈哈哈哈哈哈//哈哈哈哈哈哈哈哈哈
 	
-	//哈哈哈哈哈哈哈哈哈
-	//哈哈哈哈哈哈哈哈哈
-	//哈哈哈哈哈哈哈哈哈
-	//哈哈哈哈哈哈哈哈哈
-	//哈哈哈哈哈哈哈哈哈//哈哈哈哈哈哈哈哈哈
-	//哈哈哈哈哈哈哈哈哈
-	//哈哈哈哈哈哈哈哈哈
-	//哈哈哈哈哈哈哈哈哈
+//这个是正式的主干
 	
-	//分支测试
-	//这个是测试分支，有可能处错误
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
