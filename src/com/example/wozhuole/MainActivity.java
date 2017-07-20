@@ -5,6 +5,7 @@ import java.util.List;
 
 import me.angeldevil.autoscrollviewpager.AutoScrollViewPager;
 import android.animation.ValueAnimator;
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Color;
@@ -46,7 +47,9 @@ public class MainActivity extends Activity {
 	//哈哈哈哈哈哈哈哈哈
 	//哈哈哈哈哈哈哈哈哈
 	//哈哈哈哈哈哈哈哈哈
-	@Override
+	
+	//分支测试
+	@SuppressLint("NewApi") @Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
