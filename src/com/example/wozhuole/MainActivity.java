@@ -34,9 +34,7 @@ public class MainActivity extends Activity {
 	
 //这个是eclipse提交的测试代码
 	
-//这个是正式的主干
-	//好好吃饭
-	//asdfsadfsdafsdafsa
+
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
