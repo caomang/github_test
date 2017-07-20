@@ -44,6 +44,9 @@ public class MainActivity extends Activity {
 		ll_home.addView(textView);
 		textView.setVisibility(View.GONE);
 		anim_rv = ValueAnimator.ofInt(0, 1000);
+		
+		
+		
 		anim_rv.setDuration(Integer.MAX_VALUE);
 		anim_rv.setInterpolator(new LinearInterpolator());
 		List<String> list=new ArrayList<String>();
