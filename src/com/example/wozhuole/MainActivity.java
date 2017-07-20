@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
 	
 	
 	//、、哈哈哈哈哈哈
-	
+	//这个是测试的
 
 	
 	@Override
