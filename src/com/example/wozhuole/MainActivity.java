@@ -49,7 +49,8 @@ public class MainActivity extends Activity {
 	//哈哈哈哈哈哈哈哈哈
 	
 	//分支测试
-	@SuppressLint("NewApi") @Override
+	//这个是测试分支，有可能处错误
+	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
