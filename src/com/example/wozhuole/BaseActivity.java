@@ -11,6 +11,7 @@ public class BaseActivity extends Activity{
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		Log.e("------------------>", "父类里面的oncreate");
+		
 	}
 
 }
