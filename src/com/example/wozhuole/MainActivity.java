@@ -34,6 +34,9 @@ public class MainActivity extends Activity {
 	
 //这个是eclipse提交的测试代码
 	
+	
+	//、、哈哈哈哈哈哈
+	
 
 	
 	@Override
